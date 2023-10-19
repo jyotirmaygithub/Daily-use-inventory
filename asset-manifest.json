@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daily-use-inventory/static/css/main.d4d8de00.css",
+    "main.js": "/Daily-use-inventory/static/js/main.140d7d5d.js",
+    "static/js/787.d3219287.chunk.js": "/Daily-use-inventory/static/js/787.d3219287.chunk.js",
+    "index.html": "/Daily-use-inventory/index.html",
+    "main.d4d8de00.css.map": "/Daily-use-inventory/static/css/main.d4d8de00.css.map",
+    "main.140d7d5d.js.map": "/Daily-use-inventory/static/js/main.140d7d5d.js.map",
+    "787.d3219287.chunk.js.map": "/Daily-use-inventory/static/js/787.d3219287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d8de00.css",
+    "static/js/main.140d7d5d.js"
+  ]
+}
